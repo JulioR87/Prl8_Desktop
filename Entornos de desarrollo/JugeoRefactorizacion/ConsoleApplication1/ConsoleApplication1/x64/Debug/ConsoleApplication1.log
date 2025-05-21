@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+D:\entornos\JugeoRefactorizacion\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,13): error C3872: '0xb1': este carácter no se permite en un identificador
+D:\entornos\JugeoRefactorizacion\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,24): error C3872: '0xb1': este carácter no se permite en un identificador
+D:\entornos\JugeoRefactorizacion\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,46): error C3872: '0xb1': este carácter no se permite en un identificador
+D:\entornos\JugeoRefactorizacion\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(38,13): error C3872: '0xb1': este carácter no se permite en un identificador
+D:\entornos\JugeoRefactorizacion\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,22): error C3872: '0xb1': este carácter no se permite en un identificador
+D:\entornos\JugeoRefactorizacion\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42,56): error C3872: '0xb1': este carácter no se permite en un identificador
